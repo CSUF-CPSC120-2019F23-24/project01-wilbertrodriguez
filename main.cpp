@@ -40,7 +40,7 @@ int main()
 
   std::cout << location << std::setw(11) << days << std::setw(10)
   << hotel_exp << std::setw(9) << meal_exp << std::setw(9) << total_exp <<"\n";
-  //puts the data below the previous names
+  //puts the data below the previous names returned
 
   return 0;
 }
